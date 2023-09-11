@@ -1,0 +1,1 @@
+This is a SteamAPI calling function used to obtain the game categories and game genres of all games on Steam.
